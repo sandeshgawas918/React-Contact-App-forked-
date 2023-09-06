@@ -1,0 +1,54 @@
+{
+  "Contacts": [
+    {
+      "id": "abc",
+      "name": "sandesh gawas",
+      "photo": "https://thumbs.dreamstime.com/z/man-icon-gentleman-logo-man-beard-mustache-man-icon-gentleman-logo-man-beard-mustache-groom-124782679.jpg",
+      "mobile": "9000393908",
+      "email": "test@gmail.com",
+      "title": "engineer",
+      "company": "sgtech",
+      "groupId": "2"
+    },
+    {
+      "id": "def",
+      "name": "Rahul Pandey",
+      "photo": "https://t4.ftcdn.net/jpg/03/30/69/37/360_F_330693718_n8wvEcQWwBs5cxGaYUd4uLpX0mo7WUOA.jpg",
+      "mobile": "1234635565",
+      "email": "rahul@gmail.com",
+      "title": "S/W Engineer",
+      "company": "EVC Ventures",
+      "groupId": "1"
+    },
+    {
+      "name": "ranjit",
+      "photo": "https://previews.123rf.com/images/metelsky/metelsky1904/metelsky190400021/121859823-male-avatar-icon-or-portrait-handsome-young-man-face-with-beard-vector-illustration.jpg",
+      "mobile": "4365234567",
+      "email": "sg2@gmail.com",
+      "title": "test",
+      "company": "hcl",
+      "groupId": "1",
+      "id": "HelUSWP"
+    },
+    {
+      "name": "Laura",
+      "photo": "https://www.pngfind.com/pngs/m/233-2334734_female-female-business-user-icon-hd-png-download.png",
+      "mobile": "9990008881",
+      "email": "laura@gmail.com",
+      "title": "Servent",
+      "company": "Google",
+      "groupId": "2",
+      "id": "JEW-9d6"
+    }
+  ],
+  "Groups": [
+    {
+      "id": "1",
+      "name": "friend"
+    },
+    {
+      "id": "2",
+      "name": "family"
+    }
+  ]
+}
